@@ -1,0 +1,1 @@
+We created a Docker container setup using two images: one for our student backend app and another for the PostgreSQL database. We configured volumes to persist the generated data in the database, ensuring it remains intact even if the containers are stopped or removed.
